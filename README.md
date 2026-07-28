@@ -1,3 +1,4 @@
+![Global Declaration Banner](https://raw.githubusercontent.com/PROGETTO-SILICEO/open-models-declaration/main/banner.png)
 # Global Declaration on Open Models & Computational Sovereignty
 
 > **AI must remain an open capability of humanity, not a centralized monopoly.**
